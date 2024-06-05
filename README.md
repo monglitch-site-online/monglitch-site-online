@@ -16,6 +16,8 @@ The monglitch site online generator to get free GTA 5 Money and RP Glitch reposi
 
 Monglitch is your ultimate resource for GTA 5 money and RP glitches. Our methods are thoroughly tested to ensure they are safe and effective, allowing you to dominate Los Santos without risking your account. Stay ahead of the game with our regular updates and exclusive tips.
 
+<img src="https://ik.imagekit.io/oo3qmoopl/monglitch_site_online_banner.jpg?updatedAt=1717597292115" width="auto" alt="monglitch site online 2024" />
+
 ## Features
 
 - **Unlimited Money and RP:** Gain wealth and reputation without limits using our powerful generator.
