@@ -1,6 +1,6 @@
-# Monglitch Site Online - Free GTA 5 Money and RP Glitch Generator for All Devices 
+<h1>Monglitch Site Online - Free GTA 5 Money and RP Glitch Generator for All Devices <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-Welcome to the Monglitch GTA 5 Money and RP Glitch repository! 🚀 This repository is dedicated to providing safe, reliable, and up-to-date methods to unlock unlimited money and RP in GTA 5. Whether you're on PC, console, or mobile, our glitches are designed to work seamlessly across all devices. 🔗 **Visit our website now:** [www.monglitch.online](https://www.monglitch.online/) to get rich in Los Santos today! 💸💰
+The monglitch site online generator to get free GTA 5 Money and RP Glitch repository! 🚀 <br>This repository is dedicated to providing safe, reliable, and up-to-date methods to unlock unlimited money and RP in GTA 5. Whether you're on PC, console, or mobile, our glitches are designed to work seamlessly across all devices. 🔗 **Visit our website now:** [www.monglitch.online](https://www.monglitch.online/) to get rich in Los Santos today! 💸💰
 
 ## Table of Contents
 - [About](#about)
